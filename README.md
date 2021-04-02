@@ -1,2 +1,3 @@
-# GolangLearningCurve
-This project is a begining for me to try implement and put forward my best practices.
+# Golang Learning Curve
+This project is a beginning for me to try implement golang and put forward my best practices.
+cd
